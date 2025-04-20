@@ -15,6 +15,13 @@ The project is organized into five components. For details on the implementation
 4. `lobbying_position_score`: Scripts for generating the Lobbying Position Score based on the annotated bill position dataset
 5. `analysis`: Scripts and data used to generate and analyze the figures in the paper (e.g., Analysis 1-4)
 
+
+## Download Input & Output Data
+
+The input and output (result) data for each component are available on the Harvard Dataverse.
+**Before running the code, please visit "Replication Data for: lobbying-position" (https://doi.org/10.7910/DVN/D0QWM2) and download the datasets.**
+
+
 ## Install
 
 #### Full Install

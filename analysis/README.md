@@ -6,6 +6,10 @@ Each analysis focuses on a distinct aspect of lobbying behavior and its relation
 
 ---
 
+## Download Input & Output Data
+Please download `analysis_input` and `analysis_output` from "Replication Data for: lobbying-position" (https://doi.org/10.7910/DVN/D0QWM2).
+
+
 ### Analysis 1: At What Stages Do Interest Groups Lobby with Bill Positions
 
 - **Main text**  

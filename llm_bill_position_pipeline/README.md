@@ -1,5 +1,8 @@
 # LLM Bill Position Pipeline
 
+## Download Input & Output Data
+Please download `llm_input`, `llm_output`, and `human_validation` from "Replication Data for: lobbying-position" (https://doi.org/10.7910/DVN/D0QWM2).
+
 
 ## llm_annotation
 The `llm_annotation.sh` script is used to annotate bill positions mentioned in lobbying report issue texts using a language model.

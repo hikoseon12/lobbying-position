@@ -3,6 +3,10 @@
 This codebase is designed to predict bill positions (edge types) using a Graph Neural Network (GNN).
 
 
+## Download Input & Output Data
+Please download `gnn_input` and `gnn_output` from "Replication Data for: lobbying-position" (https://doi.org/10.7910/DVN/D0QWM2).
+
+
 ## Install
 
 ```bash
