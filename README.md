@@ -1,6 +1,6 @@
 # Measuring Interest Group Positions on Legislation: An AI-Driven Analysis of Lobbying Reports
 
-![Overview of bill position annotation pipelin](figure/overview.pdf)
+![Overview of bill position annotation pipelin](figure/overview.png)
 
 
 ## Overview
